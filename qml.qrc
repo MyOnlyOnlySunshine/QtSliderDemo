@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file alias="sliderBackground.png">../推杆/sliderBackground.png</file>
+        <file alias="bigThumb.png">../bigThumb.png</file>
+    </qresource>
+</RCC>
