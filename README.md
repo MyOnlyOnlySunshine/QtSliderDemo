@@ -1,0 +1,2 @@
+# QtSliderDemo
+slider
